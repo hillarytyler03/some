@@ -1,0 +1,32 @@
+.form-control{
+    background-color:rgb(11, 11, 37) ;
+    color: white;
+    border: 0;
+    border-bottom:solid grey;
+}
+.card-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sphere{
+    margin-bottom: 20rem;
+}
+.semi-circle{
+    width: 200px;
+    height: 90px;
+    background-color: #0000ff;
+    border-top-left-radius: 90px;
+    border-top-right-radius: 90px;
+    margin: auto;
+}
+.btn-group{
+    width: 25em;
+}
+.small-butt{
+    text-align: center;
+}
+.dropdown{
+    text-align: center;
+}
+.write{
+    text-align: center;
+}
